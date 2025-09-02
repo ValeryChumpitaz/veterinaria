@@ -1,4 +1,4 @@
-# Agenda MVC Swing (vallegrande.edu.pe)
+# PROYECTO VETERINARIA 
 
 Proyecto básico con estructura MVC y GUI Swing para gestión dinámica de agenda.
 
